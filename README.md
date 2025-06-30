@@ -3,8 +3,10 @@ A repository where I will be generate examples about Databricks platform as a ke
 
 We have organized this repository in some categories:
 
-Data Platform: Examples related to data platforms features like engineer, storage or orchestration.
+1. Data Platform: Examples related to data platforms features
 
-Data Governance: Examples related to data governance features
+2. Data Governance: Examples related to data governance features
 
-AI & ML: Examples about AI Gen or Machine Learning capabilities
+3. AI & ML: Examples about AI Gen or Machine Learning capabilities
+
+4. Data Engineering: Examples about Data Engineer capabilities
